@@ -31,7 +31,6 @@ CSIWavNet addresses both issues with a unified complex-valued architecture, prov
 - 🌊 **Learnable Multi-Kernel Complex Wavelet Module** — adaptively decomposes CSI signals into task-relevant time–frequency subbands instead of relying on hand-crafted wavelet bases.
 - 🔁 **Complex-Valued BiGRU (BiCGRU) Encoder** — captures temporal dependencies in both directions while preserving the intrinsic amplitude–phase coupling of CSI measurements.
 - 🎯 **Cross-Level Fusion & Adaptive Hierarchical Aggregation** — dynamically emphasizes discriminative frequency components for activities of different granularities.
-- ⚡ **Lightweight Design** — built with edge deployment in mind for real IoT scenarios.
 
 ---
 
